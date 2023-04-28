@@ -1,0 +1,13 @@
+.elem{
+    border: 1px solid black;
+    background-color: rgb(196, 221, 213);
+    width: 100px;
+    height: 100px;
+}
+article{
+    width: 80%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+   
+}
